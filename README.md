@@ -1,5 +1,6 @@
+
+<h2><img src="https://media.giphy.com/avatars/gonryon/xp3WLnBWBLoI/200h.gif" width="50"> Nice to meet you!</h2>
 <div align="center">
-<h2 align="center"><img src="https://media.giphy.com/avatars/gonryon/xp3WLnBWBLoI/200h.gif" width="50"> Nice to meet you!</h2>
 💬 I'm Zhang Jie, you can call me Sherioc.
 
 > 🎈 An 22 y.o. student at Wuhan University of Technology  
@@ -9,9 +10,10 @@
 <div align="center">
 <img src="https://github-readme-stats.lolicon.io/?username=SheriocCode&show_icons=true&theme=dracula" alt="Sherioc's GitHub Stats" height="150px" /> <img src="https://github-readme-stats.lolicon.io/top-langs?username=SheriocCode&layout=compact&langs_count=6&theme=dracula" alt="Sherioc's GitHub Top Langs" height="150px" />
 </div>
-<p align="center">
-<h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55"></h2>
-<p align="center">
+
+
+<h2>Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55"></h2>
+  
 <div align="center">
   
 **【Program】**
@@ -28,10 +30,12 @@
 <img src="https://skill-icons.lolicon.io/icons?i=sklearn,pytorch,tensorflow&perline=14&theme=dark" />
 </div>
 
-<div align="center">
-<h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
+<h2>Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
+<div align="center">
 💌[E-Mail](mailto:sherioc@qq.com)
+  
 You can contact me by the information above. In addition, you can also visit my websites and leave your comments.
 
 Here is some of my websites:
