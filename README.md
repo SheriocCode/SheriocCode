@@ -7,7 +7,7 @@
 
 
 <div align="center">
-<img src="https://github-readme-stats.lolicon.io/?username=SheriocCode&show_icons=true&theme=dracula" alt="ChrisKimZHT's GitHub Stats" height="150px" /> <img src="https://github-readme-stats.lolicon.io/top-langs?username=SheriocCode&layout=compact&langs_count=8&theme=dracula" alt="Sherioc's GitHub Top Langs" height="150px" />
+<img src="https://github-readme-stats.lolicon.io/?username=SheriocCode&show_icons=true&theme=dracula" alt="Sherioc's GitHub Stats" height="150px" /> <img src="https://github-readme-stats.lolicon.io/top-langs?username=SheriocCode&layout=compact&langs_count=6&theme=dracula" alt="Sherioc's GitHub Top Langs" height="150px" />
 </div>
 
 <p align="center">
