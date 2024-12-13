@@ -1,36 +1,41 @@
-### Hi there 👋 Nice to meet you!
+### <img src="https://media.giphy.com/avatars/gonryon/xp3WLnBWBLoI/200h.gif" width="50"> Nice to meet you!
 
 💬 I'm Zhang Jie, you can call me Sherioc.
 
-> 🎈 An 22 y.o. student at Wuhan University of Technology, majoring in 🤖Artificial Intelligence and minoring in ⚖️Law (Intellectual Property).
+> 🎈 An 22 y.o. student at Wuhan University of Technology  
+> ✨ Majoring in 🤖**Artificial Intelligence** / Minoring in ⚖️**Law** (Intellectual Property).
 
-I love programming because writing code to solve problems is fascinating.   
-I'm also drawn to law, as exploring the legal frameworks that protect creators' rights and promote innovation brings me joy.
 
-## 📈 GitHub Stats
+<div align="center">
+<img src="https://github-readme-stats.lolicon.io/?username=SheriocCode&show_icons=true&theme=dracula" alt="ChrisKimZHT's GitHub Stats" height="150px" /> <img src="https://github-readme-stats.lolicon.io/top-langs?username=SheriocCode&layout=compact&langs_count=8&theme=dracula" alt="Sherioc's GitHub Top Langs" height="150px" />
+</div>
 
-<img src="https://github-readme-stats.lolicon.io/?username=3051617781&show_icons=true&bg_color=30,fafafa,f0f0f0" alt="ChrisKimZHT's GitHub Stats" height="185px" /> <img src="https://github-readme-stats.lolicon.io/top-langs?username=SheriocCode&layout=compact&langs_count=8&bg_color=30,fafafa,f0f0f0" alt="ChrisKimZHT's GitHub Top Langs" height="185px" />
-
-## ✍ Know How to Spell
-**Program**
-
-<img src="https://skill-icons.lolicon.io/icons?i=c,cpp,java,js,py&perline=14" />
-<img src="https://skill-icons.lolicon.io/icons?i=anaconda,idea,pycharm,visualstudio,vscode&perline=14" />
-
-**Web-develop**
-
-<img src="https://skill-icons.lolicon.io/icons?i=html,css,sass,bootstrap,vue,react,jquery,nodejs,flask,spring,mysql,nginx&perline=14" />
-<img src="https://skill-icons.lolicon.io/icons?i=docker,electron,git,github,linux&perline=14" />
-
-**ML/DL**
-
-<img src="https://skill-icons.lolicon.io/icons?i=sklearn,pytorch,tensorflow&perline=14" />
+<p align="center">
+<h2 align="center">Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55"></h2>
+<p align="center">
 
 
 
+<div align="center">
+  
+**【Program】**
 
-## ✉ Get in Touch
+<img  src="https://skill-icons.lolicon.io/icons?i=java,js,py,cpp&perline=14" /> | <img src="https://skill-icons.lolicon.io/icons?i=vscode,pycharm,idea&perline=14" /> | <img src="https://skill-icons.lolicon.io/icons?i=github,linux&perline=14" />
 
+**【Web-Develop】**
+
+<img src="https://skill-icons.lolicon.io/icons?i=html,css,sass,vue,react,nodejs&perline=14&theme=dark" /> | <img src="https://skill-icons.lolicon.io/icons?i=spring,flask,django,mysql,mongodb&perline=14&theme=dark" /> | <img src="https://skill-icons.lolicon.io/icons?i=docker,electron,git&perline=14&theme=dark" />
+
+
+**【ML/DL】**
+
+<img src="https://skill-icons.lolicon.io/icons?i=sklearn,pytorch,tensorflow&perline=14&theme=dark" />
+</div>
+
+
+
+
+<h2 align="center">Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 💌[E-Mail](mailto:sherioc@qq.com)
 
