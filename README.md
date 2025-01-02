@@ -4,7 +4,6 @@
 💬 I'm Zhang Jie, you can call me Sherioc.
 
 > 🎈 An 22 y.o. student at Wuhan University of Technology  
-> ✨ Majoring in 🤖**Artificial Intelligence** / Minoring in ⚖️**Law** (Intellectual Property).
 </div>
 
 <div align="center">
