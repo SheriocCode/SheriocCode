@@ -28,10 +28,7 @@
 
 <div align="center">
   
-> You can contact me by the information below. In addition, you can also visit my websites and leave your comments.
 
-💌 E-Mail sherioc@qq.com
-  
 > Here is some of my websites:
 
 📃[Homepage](https://www.cnblogs.com/sherioc) / [Blog](https://www.cnblogs.com/sherioc)
