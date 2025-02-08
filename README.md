@@ -29,7 +29,7 @@
 <div align="center">
   
 
-> Here is some of my websites:
+> Here are some of my websites:
 
 📃[Homepage](https://www.cnblogs.com/sherioc) / [Blog](https://www.cnblogs.com/sherioc)
 </div>
