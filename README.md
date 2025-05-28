@@ -11,11 +11,11 @@
   
 **【Program】**
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,py,cpp&perline=14)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=vscode,pycharm,idea&perline=14)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=github,linux&perline=14)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,cpp&perline=14)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=vscode&perline=14)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=github,linux&perline=14)](https://skillicons.dev)
 
 **【Web-Develop】**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,vue,react,nodejs&perline=14&theme=dark)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=spring,flask,django,mysql,mongodb&perline=14&theme=dark)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=docker,electron,git&perline=14&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,react,nodejs&perline=14&theme=dark)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=flask,django,mysql&perline=14&theme=dark)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=docker,electron,git&perline=14&theme=dark)](https://skillicons.dev)
 
 
 **【ML/DL】**
