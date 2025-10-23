@@ -2,7 +2,8 @@
 <div align="center">
 💬 I'm Zhang Jie, you can call me Sherioc.
 
-> 🎈 An 22 y.o. student at Wuhan University of Technology
+> 🎈 An 22 y.o. student at Wuhan University of Technology  
+> ✨ Majoring in 🤖**Artificial Intelligence** / Minoring in ⚖️**Law** (Intellectual Property).
 </div>
 
 <h2>Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55"></h2>
@@ -23,13 +24,15 @@
 [![My Skills](https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow&perline=14&theme=dark)](https://skillicons.dev)
 </div>
 
+<h2>Pages Project</h2>  
+
+[Md-Cleaner: Markdown 转 Word 转换器](https://sherioccode.github.io/Md-Cleaner/)  
 
 <h2>Reach me on <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <div align="center">
   
 
-> Here are some of my websites:
-
+> Here are some of my websites:  
 📃[Homepage](https://www.cnblogs.com/sherioc) / [Blog](https://www.cnblogs.com/sherioc)
 </div>
