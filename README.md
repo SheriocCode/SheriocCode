@@ -6,16 +6,18 @@
 </div>
 
 <h2>Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55"></h2>
-  
+
+
 <div align="center">
   
 **【Program】**
 
-[![My Skills](https://skillicons.dev/icons?i=js,py,cpp&perline=14)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=vscode&perline=14)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=github,linux&perline=14)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,cpp&perline=14)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=vscode&perline=14)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=github,linux&perline=14)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=obsidian&perline=14&theme=dark)](https://skillicons.dev)
 
 **【Web-Develop】**
 
 [![My Skills](https://skillicons.dev/icons?i=vue,react,nodejs&perline=14&theme=dark)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=flask,django,mysql&perline=14&theme=dark)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=docker,electron,git&perline=14&theme=dark)](https://skillicons.dev)
+
 
 
 **【ML/DL】**
